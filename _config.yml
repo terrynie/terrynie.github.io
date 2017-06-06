@@ -26,9 +26,10 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: Tactile
 paginate: 2
 paginate_path: "/blog/page:num/"
+theme: jekyll-theme-tactile
+
 gems:
   - jekyll-feed
 exclude:
